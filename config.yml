@@ -126,7 +126,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  # comments: false
+  comments: true
   images: ["images/papermod-cover.png"]
 
   profileMode:
@@ -143,17 +143,17 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "WangZhengzhang' Blog"
+    Title: "王争章的博客"
     Content: >
-      👋 欢迎来到王争章的博客! 全站开发工程师，多年前段后端一线开发经验，擅长编程语言包括C++、C#和JavaScript ，专注于高性能应用与交互式网页开发！
+      👋 欢迎来到王争章的博客! 全栈开发工程师，多年前段后端一线开发经验，擅长编程语言包括C++、C#和JavaScript ，专注于高性能应用与交互式网页开发！
 
-      - C/C++ 用于底层优化、游戏引擎及高性能 WebAssembly 模块开发，Qt:最流行的跨平台的UI框架，使用C++结合OpenGL的渲染能力开发高性能的3D应用
+      - C/C++ 用于底层优化、游戏引擎及高性能 WebAssembly 模块开发，Qt:最流行的跨平台的UI框架，使用C++结合OpenGL的渲染能力开发高性能的3D应用。
 
       - C#结合.NET生态，支持跨平台桌面应用(如WPF)或 Unity 游戏开发。.NetCore进行跨平台高性能服务端开发，结合丰富的开发者生态和云原生(Docker,Kubernets)/微服务架构支持（Dapr，Kafka）开发高效稳定的服务端程序。
 
       - JavaScript，精通 React/Vue 等框架，构建响应式用户界面，并可通过 Node.js 实现全栈能力。
 
-      - Python，熟练使用Python爬虫工具挖掘高价值互联网数据，使用NumPy，Pandas，Matplotlib进行数据分析，利用TensorFlow，Pytouch，Scikit-learn完成机器学习相关的任务
+      - Python，熟练使用Python爬虫工具挖掘高价值互联网数据，使用NumPy，Pandas，Matplotlib进行数据分析，利用TensorFlow，Pytouch，Scikit-learn完成机器学习相关的任务。
 
   socialIcons:
     - name: github
@@ -164,7 +164,7 @@ params:
       url: "https://x.com/WZhengzhan10829"
     - name: weixin
       title: Contact with Wechat
-      url: /weixin
+      url: /weixin.jpg
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
