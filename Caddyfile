@@ -1,0 +1,6 @@
+localhost
+
+file_server {
+	root          I:\code\web\hugo\hugo-papermod\public
+	index         index.html
+}
